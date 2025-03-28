@@ -18,6 +18,7 @@ Choose the payment method (cart total or fixed categories).
 If using fixed categories, enter the values separated by commas.
 
 A payment link will be generated and opened when clicking the payment button.
+[asiasell_payment_button]
 
 ****
 
@@ -34,3 +35,5 @@ A payment link will be generated and opened when clicking the payment button.
 - اختر طريقة الدفع (مبلغ السلة أو الفئات الثابتة).
 - في حالة اختيار الدفع بفئات، أدخل القيم مفصولة بفواصل.
 - سيتم إنشاء رابط اتصال يتم فتحه عند الضغط على زر الدفع.
+اضف الشورت كود اينما تحب
+[asiasell_payment_button]
