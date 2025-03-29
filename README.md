@@ -37,3 +37,8 @@ A payment link will be generated and opened when clicking the payment button.
 - سيتم إنشاء رابط اتصال يتم فتحه عند الضغط على زر الدفع.
 اضف الشورت كود اينما تحب
 [asiasell_payment_button]
+
+
+
+
+![Asia Cell Payment](https://raw.githubusercontent.com/aioneumco/woocommerce-asia-sell-gateway/refs/heads/main/wc-asiasell-gateway/assets/asia-cell-payment%20(1).webp)
